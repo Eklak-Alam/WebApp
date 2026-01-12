@@ -67,7 +67,7 @@ This is a basic **HTML + CSS + JavaScript** project created to understand how fr
 
 ## 💡 Next Improvements
 
-- Add dark mode  
+- Add dark mode
 - Add animations
 - Convert to React
 - Deploy on GitHub Pages
