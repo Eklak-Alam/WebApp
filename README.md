@@ -1,7 +1,7 @@
 # 🌐 Simple Web Page Project
 
 This is a basic **HTML + CSS + JavaScript** project created to understand how frontend works.
-hel
+
 ---
 
 ## 📸 Preview (Concept)
