@@ -10,7 +10,7 @@ This is a basic **HTML + CSS + JavaScript** project created to understand how fr
 - Button interaction
 - Text changes dynamically
 
----hfk
+---h
 
 ## 🧩 Technologies Used
 
